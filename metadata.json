@@ -1,0 +1,11 @@
+{
+  "name": "Prime Audio Orb",
+  "description": "Speak, and the orb responds. An interactive experience powered by the Live Audio API.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": "",
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
